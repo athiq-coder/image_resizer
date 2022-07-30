@@ -1,0 +1,9 @@
+Pillow
+gunicorn
+Image
+Flask
+configparser
+requests
+streamlit
+opencv-python
+pydaisi
